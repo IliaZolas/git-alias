@@ -1,4 +1,4 @@
-Yes, you can create a custom Git alias or shell script to automate these steps into a single command. Here's an example of how you can do it using a Git alias:
+You can create a custom Git alias or shell script to automate these steps into a single command. Here's an example of how you can do it using a Git alias:
 
 1. Open your Git configuration file. You can do this by running the following command:
     
